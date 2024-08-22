@@ -23,6 +23,31 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawchar85&hide_border=true&theme=tokyonight" alt="kawchar85" />
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://fb.com/kaluwan.kawchar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaluwan.kawchar" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/kawchar85" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawchar85" height="30" width="40" />
+  </a>
+  <a href="mailto:kawcharhusain@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/kawchar85" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kawchar85" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/kawchar85" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kawchar85" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/kawchar85" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kawchar85" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/kawchar85" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kawchar85" height="30" width="40" />
+  </a>
+  
+</p>
 
 <!--
 **kawchar85/kawchar85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
