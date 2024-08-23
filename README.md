@@ -12,7 +12,7 @@
         </ul>
       </td>
       <td style="border: none;">
-        <img src="coding.webp" alt="Coding" width="300"/>
+        <img src="coding.gif" alt="Coding" width="400" />
       </td>
     </tr>
   </table>
@@ -47,7 +47,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawchar85" height="30" width="40" />
   </a>
   <a href="mailto:kawcharhusain@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" />
+<!--     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /> -->
+    <img align="center" height="30" width="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
   </a>
   <a href="https://kaggle.com/kawchar85" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kawchar85" height="30" width="40" />
