@@ -12,7 +12,7 @@
         </ul>
       </td>
       <td style="border: none;">
-        <img src="coding.gif" alt="Coding" width="400" />
+        <img src="coding.gif" alt="Coding" width="300" />
       </td>
     </tr>
   </table>
@@ -37,6 +37,7 @@
 <p align="center">
   <img src="https://github-stats-one-phi.vercel.app/api/top-langs/?username=kawchar85&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=20&hide=css,tex" alt="Top Languages"/>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
