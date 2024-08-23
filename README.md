@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kawchar Husain </h1>
+<h1 align="center">Hi 👋, I'm Kawchar Husain</h1>
 
 <div align="center">
-  <table border="0">
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td>
+      <td style="border: none;">
         <ul align="left">
           <li>Jr. Software Engineer with expertise in Deep Learning, Computer Vision, Image Processing, and MLOps.</li>
           <li>Competitive programmer.</li>
@@ -11,7 +11,7 @@
           <li>Actively exploring Quantum Computing and Full-stack Development.</li>
         </ul>
       </td>
-      <td>
+      <td style="border: none;">
         <img src="coding.webp" alt="Coding" width="300"/>
       </td>
     </tr>
@@ -19,12 +19,12 @@
 </div>
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=kawchar85&show_icons=true&hide_border=true&theme=tokyonight" alt="kawchar85" />
-  <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=kawchar85&hide_border=true&theme=tokyonight" alt="kawchar85" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kawchar85&show_icons=true&hide_border=true&theme=tokyonight" alt="kawchar85" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kawchar85&hide_border=true&theme=tokyonight" alt="kawchar85" />
 </p>
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawchar85&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages"/>
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawchar85&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=20&hide=css,html" alt="Top Languages"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -51,19 +51,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kawchar85" height="30" width="40" />
   </a>
 </p>
-
-
-<!--
-**kawchar85/kawchar85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
