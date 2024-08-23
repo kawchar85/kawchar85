@@ -19,23 +19,23 @@
 </div>
 
 <!-- p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kawchar85&show_icons=true&hide_border=true&theme=tokyonight" alt="kawchar85" />
+  <img align="left" src="https://github-stats-one-phi.vercel.app/api?username=kawchar85&show_icons=true&hide_border=true&theme=tokyonight" alt="kawchar85" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kawchar85&hide_border=true&theme=tokyonight" alt="kawchar85" />
 </p -->
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kawchar85&show_icons=true&hide_border=true&theme=tokyonight" alt="kawchar85" />
+      <img src="https://github-stats-one-phi.vercel.app/api?username=kawchar85&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=percentile" alt="kawchar85" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawchar85&hide_border=true&theme=tokyonight" alt="kawchar85" />
+      <img src="https://github-readme-streak-stats-zeta-ochre.vercel.app/?user=kawchar85&hide_border=true&theme=tokyonight" alt="kawchar85" />
     </td>
   </tr>
 </table>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawchar85&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=20&hide=css,html" alt="Top Languages"/>
+  <img src="https://github-stats-one-phi.vercel.app/api/top-langs/?username=kawchar85&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=20&hide=css,tex" alt="Top Languages"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
