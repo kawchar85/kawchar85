@@ -6,7 +6,7 @@
       <td>
         <ul align="left">
           <li>Jr. Software Engineer with expertise in Deep Learning, Computer Vision, Image Processing, and MLOps.</li>
-          <li>Competitive programmer. </li>
+          <li>Competitive programmer.</li>
           <li>Open-source contributor.</li>
           <li>Actively exploring Quantum Computing and Full-stack Development.</li>
         </ul>
@@ -19,8 +19,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawchar85&show_icons=true&hide_border=true&theme=tokyonight" alt="kawchar85" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawchar85&hide_border=true&theme=tokyonight" alt="kawchar85" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=kawchar85&show_icons=true&hide_border=true&theme=tokyonight" alt="kawchar85" />
+  <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=kawchar85&hide_border=true&theme=tokyonight" alt="kawchar85" />
+</p>
+
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawchar85&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -46,8 +50,8 @@
   <a href="https://www.leetcode.com/kawchar85" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kawchar85" height="30" width="40" />
   </a>
-  
 </p>
+
 
 <!--
 **kawchar85/kawchar85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
