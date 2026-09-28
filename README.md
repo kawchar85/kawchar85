@@ -18,6 +18,11 @@
 - **Competitive Programming:** ICPC Asia West Continent Finalist 2023 and Codeforces Expert
 - **Problem Setting:** Competitive programming problem design, preparation, and testing
 
+### Open Source Contributions
+
+- **Hugging Face – Computer Vision Course:** Fixed image-byte handling in the transfer-learning notebook. [PR #335](https://github.com/huggingface/computer-vision-course/pull/335)
+- **DeblurDiNAT:** Fixed model-weight path handling across prediction scripts. [PR #9](https://github.com/HanzhouLiu/DeblurDiNAT/pull/9)
+
 ## Connect
 
 <p align="center">
